@@ -13,4 +13,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # 5. npm install -g pnpm
 # 6. npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm
 # 7. cd nextjs-dashboard
-# 8. npm run dev to start the server
+# 8. npm run dev //to start the server
+# 9. git add . //to register the updates
+#10. git commit -m "enter a message here" //to commit the changes 
+#11. git push origin master // to push the source to github
+#12. 
