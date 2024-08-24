@@ -10,4 +10,4 @@ export default function AcmeLogo() {
       <p className="text-[44px]">Acme</p>
     </div>
   );
-}
+};
