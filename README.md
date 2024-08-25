@@ -17,4 +17,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # 9. git add . //to register the updates
 #10. git commit -m "enter a message here" //to commit the changes 
 #11. git push origin master // to push the source to github
-#12. 
+#12. pnpm i use-debounce
+#13. pnpm i next-auth@beta
